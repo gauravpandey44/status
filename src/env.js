@@ -1,11 +1,11 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/gauravpandey44/uptime/fEzGRglrYinVlIUi/?monitors=784797976-784797974-784797970-784797997",
 
-    title: "NoCodeAPI",
+    title: "eventourpia.com",
 
-    website: "https://nocodeapi.com",
+    website: "https://eventourpia.com",
 
-    twitterHandle: "@nocodeapi",
+    twitterHandle: "@eventourpia"",
     
-    twitterURL: "https://twitter.com/nocodeapi"
+    twitterURL: "https://twitter.com/eventourpia"
 }
